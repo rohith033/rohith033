@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-stats-pi-eosin.vercel.app/api?username=rohith033&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-stats-pi-eosin.vercel.app/api?username=rohith033&show_icons=true&theme=radical) -->
 <img align="center" src="https://github-stats-pi-eosin.vercel.app/api?username=rohith033&show_icons=true&theme=radical">
 <p align="center">
   <a href="https://skillicons.dev">
